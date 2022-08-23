@@ -1,0 +1,23 @@
+{
+  "name": "jira-backup-aws-nodejs",
+  "version": "1.0.0",
+  "description": "## Introduction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jianostack/jira-backup-aws-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jianostack/jira-backup-aws-nodejs/issues"
+  },
+  "homepage": "https://github.com/jianostack/jira-backup-aws-nodejs#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1200.0",
+    "fs": "^0.0.1-security"
+  }
+}
