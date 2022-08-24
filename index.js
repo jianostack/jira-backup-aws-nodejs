@@ -6,8 +6,7 @@ const backupFile = 'backup1.zip';
 const filePath = 'backups/' + backupFile;
 var backupPath = backupFile;
 var storageClass = 'STANDARD';
-var bucketName = 'bucket-name';
-
+var bucketName = 'massiveinfinity-atlassian-backup';
 
 const run = async () => {
 
