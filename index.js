@@ -4,7 +4,7 @@ var s3 = new AWS.S3();
 
 const backupFile = 'backup1.zip';
 const filePath = 'backups/' + backupFile;
-var backupPath = backupFile;
+var backupPath = 'backups/' + backupFile;
 var storageClass = 'STANDARD';
 var bucketName = 'massiveinfinity-atlassian-backup';
 
